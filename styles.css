@@ -1,0 +1,13 @@
+.flex-parent{
+    background-color: blue;
+   
+    flex-direction: row;
+    
+    
+}
+
+.flex-child{
+    background-color:gray; 
+    display: flex;
+    flex-direction: row;
+}
