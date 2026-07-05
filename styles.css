@@ -1,13 +1,24 @@
-.flex-parent{
-    background-color: blue;
-   
-    flex-direction: row;
-    
-    
+body {
+    background-color: blanchedalmond;
+    color: darkgray;
 }
 
-.flex-child{
-    background-color:gray; 
+div{
+    padding: 20px;
+}
+
+
+.flex-parent {
+    background-color: green;
     display: flex;
     flex-direction: row;
+    
+   
 }
+
+.flex-child {
+    background-color:blue; 
+    
+  
+}
+
